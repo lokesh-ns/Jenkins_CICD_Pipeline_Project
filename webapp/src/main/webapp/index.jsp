@@ -7,3 +7,6 @@
   <h4>Thankyou, Happy Learning</h4>
 
 </div>
+
+
+Jenkins CI/CD pipeline for containerized applications streamlines building and deploying Docker containers, orchestrating container clusters using Kubernetes, and managing Helm charts.
